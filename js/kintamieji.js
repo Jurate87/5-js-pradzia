@@ -73,7 +73,7 @@ const miestai = ['Anyksciai', 'Birzai', 'Chicago', 'Dotnuva'];
 console.log(miestai);
 
 
-/* pavyzdys su pasikeitusia gyv. vieta */
+// pavyzdys su pasikeitusia gyv. vieta */
 
 
 let gyvenamojiVieta = 'Gedimino pr. 9, Vilnius';

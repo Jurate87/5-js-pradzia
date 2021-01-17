@@ -1,4 +1,4 @@
-/*
+/* //
 Ternary operatorius
 salyga ? "ka daryti jei tenkina" : "ka daryti jei netenkina"
 || reiskia ARBA

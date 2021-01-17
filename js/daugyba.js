@@ -1,6 +1,6 @@
 function daugyba(a, b) {
-    // validation
-    // ar "a" nera skaicius
+    /*validation
+    ar "a" nera skaicius */
     if (typeof a !== 'number') {
         return 'ERROR: pirmas parametras turi buti skaicius';
     }

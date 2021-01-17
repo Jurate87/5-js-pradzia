@@ -1,4 +1,4 @@
-/*
+/* !!!
 Loginis palyginimas
 if (salyga) {
     ka daryti, jei salyga tenkinama

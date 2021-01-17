@@ -5,7 +5,7 @@ const n4 = 4;
 const n5 = 5;
 
 const sum = n2 / n1 - n3 + n4 * n5;
-/*
+/* //
 const sum = 2 / 1 - 3 + 4 * 5;
 const sum = 2 - 3 + 4 * 5;
 const sum = 2 - 3 + 20;

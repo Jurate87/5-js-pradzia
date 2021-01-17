@@ -18,7 +18,7 @@ console.log(pradinisTekstas, '->', atbulasTekstas);
 
 
 
-/* for (let i = tekstoIlgis; i > 0; i++) {
+/* //for (let i = tekstoIlgis; i > 0; i++) {
     const raide = pradinisTekstas[tekstoIlgis - i - 1];
    atbulasTekstas += raide;
 }

@@ -74,7 +74,7 @@ console.log(daugyba('labas', 'rytas'));
 // daugyba su zodziais (negalima)
 
 function daugyba(a1, b1) {
-    // validation
+    // /* validation
     // ar "a" nera skaicius
     // ar "b" nera skaicius
     if (typeof a1 !== 'number') {

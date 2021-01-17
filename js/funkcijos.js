@@ -1,6 +1,6 @@
 // Sujungti sąrašų vertes, kurių tipas yra tekstai, nuo sąrašo galo iki pradžios taip, jog tarp jų būtų kablelis ir tarpas
 
-// function tekstoApjungimas (tekstas1, tekstas2) {
+/* function tekstoApjungimas (tekstas1, tekstas2) {
 //     let tekstas3 = '';
 //     const tarpas=' '
 //     const kt=', ';
@@ -12,7 +12,7 @@
 //         tekstas3 += tekstas2[i] + tarpas;
 //     }
 //     return tekstas3;
-// }
+// } */
 
 // const tekstas1 = ['mano', 'masina', 'sugedo'];
 // const tekstas2 = ['reikia', 'vezti', 'i', 'autoservisa'];

@@ -17,7 +17,7 @@ function numberLength(number) {
 
 
 
-    // jei desimtainis skaicius, tai turi kazka po kablelio
+    // /* jei desimtainis skaicius, tai turi kazka po kablelio
     // dalinant is 1, toks skaicius turi liekana - tai kas po kablelio
     if (number % 1 !== 0) {
         length--;

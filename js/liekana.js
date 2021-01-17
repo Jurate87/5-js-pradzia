@@ -1,10 +1,10 @@
 /*const skaicius = 11;
-const daliklis = 3;
+// const daliklis = 3;
 
 
-const liekana = skaicius % daliklis;
+// const liekana = skaicius % daliklis;
 
-console.log(liekana);
+// console.log(liekana);
 
 
 console.log('---------------')

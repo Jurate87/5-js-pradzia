@@ -76,7 +76,7 @@ const namas = {
 }
 
 
-const dominantisParametras = 'pamatuTipas';
-const reiksme = namas[dominantisParametras];
+//const dominantisParametras = 'pamatuTipas';
+//const reiksme = namas[dominantisParametras];
 
 console.log(reiksme);
