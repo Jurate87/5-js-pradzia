@@ -17,10 +17,10 @@ if (aIlgis === bIlgis) {
 
 
 
-/*
-true === !false
-false === !true
-*/
+//
+//true === !false
+//false === !true 
+//
 
 if (!true === false) {
     console.log('priesingas taip');
@@ -32,7 +32,7 @@ if (!true === false) {
 const radau = true;
 
 if (!radau) {
-    console.log('radau');
+    console.log('atradau');
 } else {
-    console.log('ne radau');
+    console.log('neatradau');
 }
